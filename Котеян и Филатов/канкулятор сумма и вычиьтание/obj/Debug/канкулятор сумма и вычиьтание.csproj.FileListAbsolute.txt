@@ -1,0 +1,16 @@
+C:\Users\stud.KIT\Documents\Мельников324\канкулятор сумма и вычиьтание\bin\Debug\канкулятор сумма и вычиьтание.exe.config
+C:\Users\stud.KIT\Documents\Мельников324\канкулятор сумма и вычиьтание\bin\Debug\канкулятор сумма и вычиьтание.exe
+C:\Users\stud.KIT\Documents\Мельников324\канкулятор сумма и вычиьтание\bin\Debug\канкулятор сумма и вычиьтание.pdb
+C:\Users\stud.KIT\Documents\Мельников324\канкулятор сумма и вычиьтание\obj\Debug\канкулятор сумма и вычиьтание.csproj.AssemblyReference.cache
+C:\Users\stud.KIT\Documents\Мельников324\канкулятор сумма и вычиьтание\obj\Debug\канкулятор сумма и вычиьтание.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud.KIT\Documents\Мельников324\канкулятор сумма и вычиьтание\obj\Debug\канкулятор сумма и вычиьтание.csproj.CoreCompileInputs.cache
+C:\Users\stud.KIT\Documents\Мельников324\канкулятор сумма и вычиьтание\obj\Debug\канкулятор сумма и вычиьтание.exe
+C:\Users\stud.KIT\Documents\Мельников324\канкулятор сумма и вычиьтание\obj\Debug\канкулятор сумма и вычиьтание.pdb
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\канкулятор сумма и вычиьтание\bin\Debug\канкулятор сумма и вычиьтание.exe.config
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\канкулятор сумма и вычиьтание\bin\Debug\канкулятор сумма и вычиьтание.exe
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\канкулятор сумма и вычиьтание\bin\Debug\канкулятор сумма и вычиьтание.pdb
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\канкулятор сумма и вычиьтание\obj\Debug\канкулятор сумма и вычиьтание.csproj.AssemblyReference.cache
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\канкулятор сумма и вычиьтание\obj\Debug\канкулятор сумма и вычиьтание.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\канкулятор сумма и вычиьтание\obj\Debug\канкулятор сумма и вычиьтание.csproj.CoreCompileInputs.cache
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\канкулятор сумма и вычиьтание\obj\Debug\канкулятор сумма и вычиьтание.exe
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\канкулятор сумма и вычиьтание\obj\Debug\канкулятор сумма и вычиьтание.pdb
