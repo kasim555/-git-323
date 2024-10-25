@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             //Координаты точек
+            //Длинна отрезка
         }
     }
 }
