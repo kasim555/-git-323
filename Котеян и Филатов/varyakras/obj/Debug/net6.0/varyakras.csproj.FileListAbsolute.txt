@@ -1,0 +1,15 @@
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\varyakras\bin\Debug\net6.0\varyakras.exe
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\varyakras\bin\Debug\net6.0\varyakras.deps.json
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\varyakras\bin\Debug\net6.0\varyakras.runtimeconfig.json
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\varyakras\bin\Debug\net6.0\varyakras.dll
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\varyakras\bin\Debug\net6.0\varyakras.pdb
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\varyakras\obj\Debug\net6.0\varyakras.csproj.AssemblyReference.cache
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\varyakras\obj\Debug\net6.0\varyakras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\varyakras\obj\Debug\net6.0\varyakras.AssemblyInfoInputs.cache
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\varyakras\obj\Debug\net6.0\varyakras.AssemblyInfo.cs
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\varyakras\obj\Debug\net6.0\varyakras.csproj.CoreCompileInputs.cache
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\varyakras\obj\Debug\net6.0\varyakras.dll
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\varyakras\obj\Debug\net6.0\refint\varyakras.dll
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\varyakras\obj\Debug\net6.0\varyakras.pdb
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\varyakras\obj\Debug\net6.0\varyakras.genruntimeconfig.cache
+C:\Users\stud.KIT\Desktop\Котеян и Филатов\varyakras\obj\Debug\net6.0\ref\varyakras.dll
